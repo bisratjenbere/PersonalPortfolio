@@ -1,122 +1,120 @@
 {
   "data": [
     {
-      "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "id": "R_kgDOL70Mkg",
+      "name": "Performance-Apprisal",
+      "createdAt": "2024-05-15T08:50:15Z",
+      "url": "https://github.com/bisratjenbere/Performance-Apprisal",
+      "description": "A React-based web application with Material UI and React Query, providing dashboards, forms, and role-based interfaces for employees, managers, and admins to participate in performance appraisals and feedback processes.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+           "name": "React",
+            "iconifyClass": "logos-react"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+           "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         },
         {
           "name": "CSS",
           "iconifyClass": "logos-css-3"
-        },
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOLTDRWw",
+      "name": "Evalution_System",
+      "createdAt": "2024-02-15T19:11:28Z",
+      "url": "https://github.com/bisratjenbere/Evalution_System",
+      "description": "📦 Performance Appraisal System Backend — A RESTful API built with Node.js and Express to manage employees, appraisal cycles, reviews, and feedback. Supports authentication, role-based access control, and secure data handling for performance evaluations..",
+      "isFork": false,
+      "languages": [
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
         },
         {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "Express",
+          "iconifyClass": "logos-express"
+        }
+  
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "laravel-ssr",
+      "createdAt": "2025-02-14T15:02:26Z",
+      "url": "https://github.com/bisratjenbere/laravel-ssr",
+      "description": "🔥 A modern web app built with Laravel + Inertia.js featuring a comment system and upvote functionality, providing a smooth SPA experience with role-based authentication.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "iconifyClass": "logos-typescript"
+        },
+        {
+          "name": "Php",
+          "iconifyClass": "logos-php"
+        },
+        {
+          "name": "Laravel",
+          "iconifyClass": "logos-laravel"
         }
       ]
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "name": "study_group",
+      "createdAt": "2023-12-20T18:40:02Z",
+      "url": "https://github.com/bisratjenbere/study_group",
+      "description": "🌀A mobile app built with React Native that allows students to create and join study groups, collaborate on topics, share resources, and stay organized with group discussions and schedules. ",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "ReactNative",
+          "iconifyClass": "logos-react"
         },
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
         }
+        
       ]
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "name": "School-Management-System",
+      "createdAt": "2022-11-26T17:56:07Z",
+      "url": "https://github.com/EbisaGirma21/School-Management-System-with-Advanced-Java",
+      "description": "⚙️ A comprehensive school management system built with Java, featuring modules for student enrollment, attendance tracking, grade management, and administrative tasks, designed to streamline school operations.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "java",
+          "iconifyClass": "logos-java"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
+      "name": "Job_Posting ",
+      "createdAt": "2025-01-01T08:31:51Z",
       "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "description": "A job posting platform built with Laravel that allows employers to post job listings and job seekers to browse and apply efficiently.",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "php",
+          "iconifyClass": "logos-php"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Laravel",
+          "iconifyClass": "logos-laravel"
         }
       ]
     }
