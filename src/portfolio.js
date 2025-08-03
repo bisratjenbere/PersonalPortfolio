@@ -21,8 +21,9 @@ const greeting = {
   subTitle:
     "A passionate problem-solver who thrives on building end-to-end products, learning quickly, and developing scalable, impactful solutions for real-world challenges.",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+    "https://docs.google.com/document/d/1YkoSTcxLEYvWeN9geHtmhGWcYcIUpzAXf_IqpdqQtfI/edit?usp=sharing",
+  portfolio_repository:
+    "https://github.com/bisratjenbere/PersonalPortfolio.git",
   githubProfile: "https://github.com/bisratjenbere",
 };
 
